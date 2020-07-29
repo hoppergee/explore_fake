@@ -6,7 +6,7 @@ Gem::Specification.new do |spec|
   spec.name          = "explore_fake"
   spec.version       = ExploreFake::VERSION
   spec.authors       = ["Hopper Gee"]
-  spec.email         = ["jx4554@gmail.com"]
+  spec.email         = ["hopper.gee@hey.com"]
 
   spec.summary       = %q{Just do some exploring things}
   spec.description   = %q{Just do some exploring things}
